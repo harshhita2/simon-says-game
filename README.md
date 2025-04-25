@@ -13,13 +13,6 @@ HTML – Structure of the game
 CSS – Styling and animations
 JavaScript – Game logic and interactivity
 
-📁 How to Run Locally
-Clone the repository:
-
-bash
-git clone https://github.com/your-username/simon-says-game.git
-Open index.html in your browser.
-
 ✨ Features
 Interactive gameplay with sound effects
 Colorful design and animations
