@@ -9,15 +9,16 @@ A simple and fun memory game built using HTML, CSS, and JavaScript. The goal is 
 4) The game ends when you click the wrong color.
 
 🛠️ Tech Stack
-HTML – Structure of the game
-CSS – Styling and animations
-JavaScript – Game logic and interactivity
+1) HTML – Structure of the game
+2) CSS – Styling and animations
+3) JavaScript – Game logic and interactivity
 
 ✨ Features
-Interactive gameplay with sound effects
-Colorful design and animations
-Increasing difficulty with each level
+1) Interactive gameplay with sound effects
+2) Colorful design and animations
+3)Increasing difficulty with each level
 
 📬 Contact
 If you have suggestions or want to contribute, feel free to open an issue or a pull request.
+harshitakhetan2002@gmail.com 
 
